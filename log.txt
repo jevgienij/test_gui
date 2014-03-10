@@ -1,0 +1,6 @@
+# BEGIN #
+dUavLatitude 52
+dUavLongitude 21.051
+dUavAltitude  0
+
+# END #
