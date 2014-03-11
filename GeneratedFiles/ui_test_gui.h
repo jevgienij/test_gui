@@ -71,6 +71,7 @@ public:
         spin1_lat->setDecimals(6);
         spin1_lat->setMinimum(-90);
         spin1_lat->setMaximum(90);
+        spin1_lat->setValue(52);
 
         verticalLayout->addWidget(spin1_lat);
 
@@ -91,6 +92,7 @@ public:
         spin2_lon->setDecimals(6);
         spin2_lon->setMinimum(-180);
         spin2_lon->setMaximum(180);
+        spin2_lon->setValue(21);
 
         verticalLayout_2->addWidget(spin2_lon);
 
